@@ -50,6 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text("This is my main copy"),
             Text("Branch added"),
+            Text("third chedck"),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.display1,
